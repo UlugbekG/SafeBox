@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">SafeBox</string>
+    <string name="sth_went_wrong">Something went wrong!</string>
+    <string name="file_successfully_encrypted">File successfully encrypted!</string>
+    <string name="granted">Permission granted</string>
+    <string name="rejected">Permission rejected</string>
+    <string name="denied">Permission denied</string>
+    <string name="files_have_been_successfully_deleted">Files have been successfully deleted.</string>
+    <string name="file_has_been_successfully_deleted">File has been successfully deleted.</string>
+    <string name="files_have_been_successfully_decoded">Files have been successfully decoded.</string>
+    <string name="file_has_been_successfully_decoded">File has been successfully decoded.</string>
+    <string name="file_has_been_successfully_encoded">File has been successfully encoded.</string>
+    <string name="file_not_found">File not found!</string>
+    <string name="external_storage_unmounted">External storage unmounted!</string>
+    <string name="data_with_this_id_not_found">Data with this id not found.</string>
+    <string name="something_went_wrong">Something went wrong!</string>
+    <string name="occurred_error_while_creating_file">Error occurred while creating file. Please try again or check your permissions!</string>
+    <string name="wrong_password">Wrong password</string>
+    <string name="settings">Settings</string>
+
+    <string name="prompt_info_title">Sample App Authentication</string>
+    <string name="prompt_info_subtitle">Please login to get access</string>
+    <string name="prompt_info_description">Sample App is using Android biometric authentication</string>
+    <string name="prompt_info_use_app_password">Use app password</string>
+    <string name="change_password">Change Password</string>
+    <string name="enable_biometrics">Enable Biometrics</string>
+    <string name="repeat_again">repeate again!</string>
+    <string name="wring_password">Wring password!</string>
+    <string name="pwssword_success">Password succesfully changed!</string>
+</resources>
